@@ -6,6 +6,7 @@ class Circle:
   raise ValueError("Радиус должен быть положитеьным")
   self.radius = radius
 
+
 def area(self) > float:
   return math.pi * (self.radius ** 2)
   
